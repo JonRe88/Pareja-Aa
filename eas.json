@@ -20,5 +20,14 @@
   },
   "submit": {
     "production": {}
+  },
+    "build": {
+      "preview": {
+        "ios": {
+          "simulator": true
+        }
+      },
+      "production": {}
+    }
   }
-}
+
