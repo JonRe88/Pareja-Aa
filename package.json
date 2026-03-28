@@ -13,7 +13,9 @@
     "eas:init": "npx eas-cli init",
     "eas:build:android": "npx eas-cli build --platform android --profile preview",
     "eas:build:ios": "npx eas-cli build --platform ios --profile production",
-    "eas:build:all": "npx eas-cli build --platform all --profile production"
+    "eas:build:all": "npx eas-cli build --platform all --profile production",
+    "android": "expo run:android",
+    "ios": "expo run:ios"
   },
   "dependencies": {
     "@expo-google-fonts/parisienne": "^0.4.1",
