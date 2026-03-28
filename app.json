@@ -34,15 +34,12 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "767f1100-2eb8-4a45-817a-f0d791e7d557"
+        "projectId": "4e53d589-05d6-4d79-b4a7-b37437b5f601"
       }
     },
     "owner": "jonyrey",
     "runtimeVersion": {
       "policy": "appVersion"
-    },
-    "updates": {
-      "url": "https://u.expo.dev/767f1100-2eb8-4a45-817a-f0d791e7d557"
     }
   }
 }
