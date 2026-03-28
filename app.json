@@ -38,8 +38,6 @@
       }
     },
     "owner": "jonyrey",
-    "runtimeVersion": {
-      "policy": "appVersion"
-    }
+    "runtimeVersion": "1.0.0"
   }
 }
